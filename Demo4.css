@@ -1,0 +1,50 @@
+#p1
+{
+	background:white;
+	width:590px;
+	height:200px;
+	color:black;
+	text-align:left;
+	position:relative;
+	top:60px;
+	left:300px;
+	float:left;
+	margin-right:50px;
+}
+#p2
+{
+	background:orange;
+	width:3px;
+	height:950px;
+	position:relative;
+	top:60px;
+	left:910px;
+}
+#p3
+{
+	background:white;
+	width:950px;
+	height:150px;
+	color:black;
+	text-align:left;
+	position:relative;
+	left:22px;
+	top:50px;
+}
+#p4
+{
+	background:white;
+	width:950px;
+	height:100px;
+	color:black;
+	text-align:left;
+	position:relative;
+	top:70px;
+	left:300px;
+	float:left;
+}
+#p5
+{
+	position:relative;
+	left:450px;
+}
